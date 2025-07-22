@@ -1,7 +1,7 @@
 @import url("https://fonts.googleapis.com/css2?family=Roboto&display=swap");
 
 :root {
-  --generic-template-background: #fff;
+  --generic-template-background: #000;
   --logo-width: 150px;
   --top-wrapper-space: 0;
   --primary-template-background: #04194c;
